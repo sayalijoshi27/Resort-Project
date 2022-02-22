@@ -1,6 +1,6 @@
 # Resort Project
 This is a room booking project using React framework. User can view & book the room according to the need/choice. Also user can filter out the needs & can view the room accordigly.
-The project uses React router, Contect API for state management and Contentstack CMS for data management. It is responsive and mobile friendly. 
+The project uses React router, Context API for state management and Contentstack CMS for data management. It is responsive and mobile friendly. 
 
 ## Project Overview
   - Header and Footer With Navigation Links 
